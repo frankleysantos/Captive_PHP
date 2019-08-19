@@ -1,4 +1,4 @@
-# Captive_PHP
+# Acesso rede via Portal Captive com PHP
 Sistema criado para autenticação de rede WiFi, onde os usuários que necessitam acessar a rede, veem um vídeo e depois é liberado o seu acesso a internet.
 Ferramentas utilizadas:
 - PHP
